@@ -21,7 +21,7 @@ class Inventory {
   }
 
   public String toString(){
-    return name + " , " + sNumber + " , $" + value;
+    return name + "," + sNumber + "," + value;
   } 
 }
 
